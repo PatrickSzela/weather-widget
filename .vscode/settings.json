@@ -1,0 +1,19 @@
+{
+    "editor.tabSize": 2,
+    "eslint.enable": true,
+    "search.exclude": {
+        "**/.nuxt": true,
+        "**/dist": true,
+        "**/assets/fonts": true
+    },
+    "spellright.language": [
+        "en_US",
+        "pl_PL"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "vue"
+    ],
+}
